@@ -1,10 +1,10 @@
-### 大企鹅
-# 清华大学2024级
-# 数学与人工智能实验班（自动化系&求真书院）
+# 大企鹅
+## 清华大学2024级
+## 数学与人工智能实验班（自动化系&求真书院）
 ---
-## PenguinBig
-# 2024 Undergraduate Student in Tsinghua University
-# Mathematics and Artificial Intelligence(Department of Automation & Qiuzhen College)
+# PenguinBig
+## 2024 Undergraduate Student in Tsinghua University
+## Mathematics and Artificial Intelligence(Department of Automation & Qiuzhen College)
 
 <!--
 **PenguinBig/PenguinBig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
